@@ -11,7 +11,7 @@ Designed for low-resource devices like the Allwinner H616 (2GB RAM) running Pyth
 - **Telegram Alerts**: Sends annotated images to a specified Telegram chat.
 - **Lightweight Health Check**: Handles `/api/stats` requests from MotionEye with minimal overhead.
 
-## Requirements
+## Tested
 - **Hardware**: Allwinner H616 or similar (2GB RAM recommended).
 - **OS**: Debian/Armbian with Python 2.7.
 - **Dependencies**:
